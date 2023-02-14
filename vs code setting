@@ -1,0 +1,46 @@
+{
+	"files.autoSave": "onFocusChange",
+	"editor.fontLigatures": true,
+	"editor.fontFamily": "Fira Code, Consolas, 'Courier New', monospace",
+	"editor.fontSize": 12,
+	// "editor.wordWrap": "wordWrapColumn",
+	"editor.tabSize": 2,
+	"prettier.requireConfig": false,
+	"prettier.semi": true,
+	"editor.codeActionsOnSave": { "source.fixAll": true },
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"editor.formatOnPaste": true,
+	"editor.formatOnType": true,
+	"eslint.alwaysShowStatus": true,
+	"html.format.enable": false,
+	"htmlhint.enable": true,
+	"[html]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode",
+		"editor.formatOnSave": true
+	},
+	"[javascript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode",
+		"editor.formatOnSave": true
+	},
+	"[json]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode",
+		"editor.formatOnSave": true
+	},
+	"workbench.colorTheme": "Monokai Vibrant",
+	"workbench.iconTheme": "vscode-icons",
+	"rainbowTags.allowEverywhere": true,
+	"emmet.triggerExpansionOnTab": true,
+	"javascript.implicitProjectConfig.checkJs": true,
+	"tabnine.experimentalAutoImports": true,
+	"terminal.integrated.env.osx": {
+		"FIG_NEW_SESSION": "1"
+	},
+	"prettier.jsxSingleQuote": true,
+	"prettier.singleAttributePerLine": true,
+	"prettier.singleQuote": true,
+	"prettier.useTabs": true,
+	"prettier.vueIndentScriptAndStyle": true,
+	"prettier.withNodeModules": true,
+	"editor.formatOnSave": true,
+	"prettier.bracketSameLine": true
+}

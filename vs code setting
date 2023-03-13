@@ -42,5 +42,9 @@
 	"prettier.vueIndentScriptAndStyle": true,
 	"prettier.withNodeModules": true,
 	"editor.formatOnSave": true,
-	"prettier.bracketSameLine": true
+	"prettier.bracketSameLine": true,
+	"editor.minimap.enabled": false,
+	"editor.accessibilitySupport": "on",
+	"html.format.wrapLineLength": 150,
+	"prettier.printWidth": 200
 }

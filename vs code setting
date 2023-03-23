@@ -47,4 +47,6 @@
 	"editor.accessibilitySupport": "on",
 	"html.format.wrapLineLength": 150,
 	"prettier.printWidth": 200
+	"editor.guides.bracketPairs": "active",
+	"editor.guides.bracketPairsHorizontal": false
 }
